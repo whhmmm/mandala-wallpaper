@@ -5,6 +5,10 @@ seamless 60-second loop, built as a plain HTML file. No plugin, no runtime — j
 
 ![preview](screenshots/01-main.png)
 
+> **▶ [Try it live](https://whhmmm.github.io/mandala-wallpaper/)** — runs in your browser, nothing to install.
+>
+> **⬇ [Download](https://github.com/whhmmm/mandala-wallpaper/releases/latest)** — Lively pack, or 1080p video.
+
 A Tibetan mandala rebuilt as moving geometry. Nine concentric layers rotate at different
 speeds — slow on the outside, faster toward the centre — so the whole thing reads as a
 machine running rather than a picture that happens to move.
